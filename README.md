@@ -1,9 +1,5 @@
-# slides
+# Presentations from SwiftFest Boston
 A collection of slides for the presentations at SwiftFest Boston 2018
-
-# Presentations from Droidcon Boston
-
-This repository contains the archive of presentations from Droidcon Boston [2017](http://2017.droidcon-boston.com) and [2018](http://2018.droidcon-boston.com).
 
 ## CfP for SwiftFest Boston 2019
 
